@@ -19,6 +19,5 @@
   <a href="https://instagram.com/carlinn_arn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sousamacedo18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-henrique-sousa-de-macedo-b94483114" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/sousamacedo18/sousamacedo18/blob/output/github-contribution-grid-snake.svg)
  
 </div>
